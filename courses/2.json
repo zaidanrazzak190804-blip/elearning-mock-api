@@ -14,7 +14,7 @@
         "order": 1,
         "title": "Prinsip Dasar UI dan UX",
         "durationSeconds": 720,
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
       },
       {
         "id": 202,
@@ -22,7 +22,7 @@
         "order": 2,
         "title": "Layout, Spacing, dan Hierarki Visual",
         "durationSeconds": 900,
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+        "videoUrl": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": 203,
@@ -30,7 +30,7 @@
         "order": 3,
         "title": "Warna dan Tipografi",
         "durationSeconds": 660,
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
       }
     ]
   }
