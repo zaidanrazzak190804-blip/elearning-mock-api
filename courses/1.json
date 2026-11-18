@@ -1,0 +1,37 @@
+{
+  "data": {
+    "id": 1,
+    "title": "Dasar Pemrograman Dart",
+    "description": "Kursus ini membahas fondasi bahasa Dart: variabel, tipe data, fungsi, kontrol alur, hingga konsep object-oriented. Cocok untuk kamu yang ingin mulai belajar Flutter.",
+    "instructor": "Rina Wijaya",
+    "category": "Programming",
+    "level": "Beginner",
+    "thumbnailUrl": "https://picsum.photos/seed/dart/600/400",
+    "lessons": [
+      {
+        "id": 101,
+        "courseId": 1,
+        "order": 1,
+        "title": "Pengenalan Dart dan Setup Lingkungan",
+        "durationSeconds": 900,
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+      },
+      {
+        "id": 102,
+        "courseId": 1,
+        "order": 2,
+        "title": "Variabel dan Tipe Data",
+        "durationSeconds": 1200,
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+      },
+      {
+        "id": 103,
+        "courseId": 1,
+        "order": 3,
+        "title": "Fungsi dan Kontrol Alur",
+        "durationSeconds": 600,
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      }
+    ]
+  }
+}
