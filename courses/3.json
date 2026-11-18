@@ -1,0 +1,37 @@
+{
+  "data": {
+    "id": 3,
+    "title": "Dasar Git dan GitHub",
+    "description": "Kursus ini mengajarkan cara mengelola versi kode dengan Git: commit, branch, dan merge, serta cara berkolaborasi lewat GitHub menggunakan push, pull, dan pull request.",
+    "instructor": "Sinta Pratama",
+    "category": "Tools",
+    "level": "Beginner",
+    "thumbnailUrl": "https://picsum.photos/seed/git/600/400",
+    "lessons": [
+      {
+        "id": 301,
+        "courseId": 3,
+        "order": 1,
+        "title": "Apa Itu Version Control",
+        "durationSeconds": 600,
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+      },
+      {
+        "id": 302,
+        "courseId": 3,
+        "order": 2,
+        "title": "Commit, Branch, dan Merge",
+        "durationSeconds": 1000,
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+      },
+      {
+        "id": 303,
+        "courseId": 3,
+        "order": 3,
+        "title": "Kolaborasi dengan GitHub",
+        "durationSeconds": 800,
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+      }
+    ]
+  }
+}
