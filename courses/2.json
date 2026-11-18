@@ -1,0 +1,37 @@
+{
+  "data": {
+    "id": 2,
+    "title": "Dasar UI/UX untuk Aplikasi Mobile",
+    "description": "Kursus ini mengenalkan prinsip desain antarmuka mobile: hierarki visual, layout dan spacing, pemilihan warna, serta tipografi. Kamu akan belajar membuat tampilan yang konsisten dan mudah digunakan.",
+    "instructor": "Budi Santoso",
+    "category": "Design",
+    "level": "Beginner",
+    "thumbnailUrl": "https://picsum.photos/seed/uiux/600/400",
+    "lessons": [
+      {
+        "id": 201,
+        "courseId": 2,
+        "order": 1,
+        "title": "Prinsip Dasar UI dan UX",
+        "durationSeconds": 720,
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "id": 202,
+        "courseId": 2,
+        "order": 2,
+        "title": "Layout, Spacing, dan Hierarki Visual",
+        "durationSeconds": 900,
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      },
+      {
+        "id": 203,
+        "courseId": 2,
+        "order": 3,
+        "title": "Warna dan Tipografi",
+        "durationSeconds": 660,
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      }
+    ]
+  }
+}
