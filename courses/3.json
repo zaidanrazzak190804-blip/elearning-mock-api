@@ -14,7 +14,7 @@
         "order": 1,
         "title": "Apa Itu Version Control",
         "durationSeconds": 600,
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
       },
       {
         "id": 302,
@@ -22,7 +22,7 @@
         "order": 2,
         "title": "Commit, Branch, dan Merge",
         "durationSeconds": 1000,
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+        "videoUrl": "https://www.w3schools.com/html/movie.mp4"
       },
       {
         "id": 303,
@@ -30,7 +30,7 @@
         "order": 3,
         "title": "Kolaborasi dengan GitHub",
         "durationSeconds": 800,
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+        "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
       }
     ]
   }
